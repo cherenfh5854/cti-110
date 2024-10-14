@@ -3,9 +3,7 @@
 #P1LAB1
 #Intro to python
 
-firstName = 'Cynthia'
-lastName = 'Cupcakes'
-print('Enter your first name:',firstName)
-print('Enter your last name:',lastName)
+firstName =input("Enter your first name: ")
+lastName =input("Enter your last  name: ")
 print('Hello,',firstName, lastName,'! Welcome to CTI-110')
 
